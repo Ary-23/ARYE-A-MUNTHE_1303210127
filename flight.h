@@ -29,6 +29,7 @@ struct DatajadwalPenerbangan {
 
 struct ListJadwal{
     adrJadwal first;
+    adrUdinpetot;
 };
 
 void createListJadwal(ListJadwal &L);
